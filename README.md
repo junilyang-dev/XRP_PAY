@@ -176,47 +176,8 @@ cd frontend && pnpm run lint
 - **시드 보안**: 지갑 시드는 절대 코드에 하드코딩하지 마세요
 - **HTTPS**: 프로덕션에서는 반드시 HTTPS 사용
 
-## 🚀 해커톤 활용 방안
-
-이 보일러플레이트를 기반으로 다음과 같은 기능들을 추가할 수 있습니다:
-
-1. **고급 NFT 기능**: NFT 마켓플레이스, 메타데이터 관리
-2. **DEX 통합**: 분산 거래소 기능 구현
-3. **멀티시그 지갑**: 다중 서명 기능
-4. **토큰 관리**: 커스텀 토큰 생성 및 거래
-5. **스마트 컨트랙트**: XRPL Hooks 활용
-6. **모바일 앱**: React Native 버전 개발
-7. **실시간 알림**: WebSocket을 통한 실시간 업데이트
-
 ## 📚 상세 문서
 
 - [백엔드 API 문서](./backend/README.md)
 - [프론트엔드 가이드](./frontend/README.md)
 
-## 🔗 유용한 링크
-
-- [XRPL 공식 문서](https://xrpl.org/docs)
-- [XRPL 테스트넷 Faucet](https://xrpl.org/xrp-testnet-faucet.html)
-- [XRPL JavaScript SDK](https://github.com/XRPL-Labs/xrpl.js)
-- [React 19 문서](https://react.dev)
-- [Tailwind CSS](https://tailwindcss.com)
-
-## 🤝 기여하기
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-MIT License - 자유롭게 사용하고 수정하세요.
-
-## 📞 지원
-
-문제가 발생하거나 질문이 있으시면 이슈를 생성해주세요.
-
----
-
-**해커톤 팀 여러분, 즐거운 코딩 되세요! 🚀**
